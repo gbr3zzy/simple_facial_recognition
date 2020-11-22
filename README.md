@@ -3,7 +3,7 @@
 INTRODUCTION
 ------------
 
-This is a simple projec for those that want to get a small introduction to a machine learning facial recognition program for Python.
+This is a simple project for those that want to get a small introduction to a machine learning facial recognition program.
 
 
 
